@@ -1,19 +1,16 @@
 # Hi, I'm Hassan Jamal 👋
 
-I'm an independent **Web Application Consultant** with over 9 years of experience in full-stack development. My expertise ranges from **PHP (Laravel)** to **JavaScript** frameworks, with a passion for creating scalable and high-quality web applications. I have worked with several startups and established businesses, bringing their ideas to life!
+I am an independent **Web Application Consultant** with a proven track record of transforming ideas into fully functional digital experiences. Over the past 9+ years, 
 
-### 🧠 Current Learning:
-I am currently diving into **AI Engineering** , expanding my knowledge in the following areas:
-1. **Intro to AI Engineering**
-2. **Deployment**
-3. **Open-source Models**
-4. **Embeddings and Vector Databases**
-5. **Agents**
-6. **Multimodality**
-7. **OpenAI's Assistants API**
-8. **Building Apps with LangChain**
-
-These skills are essential for building modern AI-powered applications and product teams, and I am continuously improving my understanding in these fields.
+### 🛠 Tools and Frameworks I Use:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### 🌟 Notable Projects:
 1. **[GNG (www.gng.com)](http://gng.com)**  
@@ -43,26 +40,24 @@ These skills are essential for building modern AI-powered applications and produ
 - **Tools**: Docker, AWS, Git, Laravel Forge, Ansible, CI/CD (GitHub Actions, CircleCI)
 - **Project Management**: Jira, Slack, Confluence, Trello, ClickUp
 
-### 📫 Let's Connect:
-- **GitHub**: [hassanjamal](https://github.com/hassanjamal)
-- **Email**: hs.jamal@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/hassanjamal)
-- **Upwork**: [Upwork Profile](https://www.upwork.com/freelancers/hassanjamal)
-
----
 
 ### 📂 Featured Repositories:
 - [Sample Code for Review](https://github.com/hassanjamal/code_for_review)  
   A repository showcasing my code for review.
 
 ---
+### 🧠 Current Learning:
+I am currently diving into **AI Engineering** , expanding my knowledge in the following areas:
+1. **Open-source Models**
+2. **Embeddings and Vector Databases**
+3. **Multimodality**
+4. **OpenAI's Assistants API**
+These skills are essential for building modern AI-powered applications and product teams, and I am continuously improving my understanding in these fields.
 
-### 🛠 Tools and Frameworks I Use:
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+### 📈 GitHub Stats:
+
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanjamal&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjamal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
