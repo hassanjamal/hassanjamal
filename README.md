@@ -1,6 +1,6 @@
 # Hi, I'm Hassan Jamal 👋
 
-I am an independent **Web Application Consultant** with a proven track record of transforming ideas into fully functional digital experiences. Over the past 9+ years, 
+I am an independent **Web Application Consultant** with a proven track record of transforming ideas into fully functional digital experiences. 
 
 ### 🛠 Tools and Frameworks I Use:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
