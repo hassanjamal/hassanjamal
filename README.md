@@ -64,10 +64,10 @@ I am currently diving into **AI Engineering** , expanding my knowledge in the fo
 4. **OpenAI's Assistants API**
 These skills are essential for building modern AI-powered applications and product teams, and I am continuously improving my understanding in these fields.
 
-### 📈 GitHub Stats:
+### 📈 GitHub Activity:
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanjamal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjamal&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![GitHub followers](https://img.shields.io/github/followers/hassanjamal?style=social)](https://github.com/hassanjamal)
+[![GitHub User's stars](https://img.shields.io/github/stars/hassanjamal?style=social)](https://github.com/hassanjamal)
+![Profile Views](https://komarev.com/ghpvc/?username=hassanjamal&color=brightgreen&style=flat-square)
 
 ---
