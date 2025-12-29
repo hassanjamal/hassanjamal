@@ -66,8 +66,8 @@ These skills are essential for building modern AI-powered applications and produ
 
 ### 📈 GitHub Stats:
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanjamal&show_icons=true&theme=radical)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanjamal&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjamal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanjamal&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ---
