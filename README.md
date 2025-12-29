@@ -29,9 +29,24 @@ I am an independent **Web Application Consultant** with a proven track record of
    _Role: Full-stack Developer_  
    Developed a SOAP-based note-taking app used by health professionals, transitioning to **REST APIs** with **Laravel** and **Vue.js**.
 
-5. **[36 Creative](https://36creative.com/)**  
-   _Role: Full-stack Developer_  
+5. **[36 Creative](https://36creative.com/)**
+   _Role: Full-stack Developer_
    Created a subscription-based app for delivering organic foods, using **Laravel** and **Vue.js** with integration of 3rd-party services like **Stripe** and **ShipStation**.
+
+6. **Optimus - Options Intelligence Platform**
+   _Role: Full-stack Developer (Personal Project)_
+   Multi-strategy real-time options analysis platform for Indian F&O markets featuring gamma squeeze detection, multi-index support, and AI-powered trading signals with dual data sources (NSE + DhanHQ).
+   **Tech Stack**: Python, Pandas, NumPy, DhanHQ/NSE APIs, Telegram Bot API, pytest
+
+7. **Devnagri Voicebot v4 (LiveKit)**
+   _Role: Full-stack Developer_
+   Production-ready multilingual voice assistant for customer service with multi-persona AI routing, supporting Hindi, Tamil, and English with sub-2-second response latency.
+   **Tech Stack**: Python, LiveKit, OpenAI, ElevenLabs, Deepgram, MongoDB, Redis, Sentence Transformers, FAISS
+
+8. **Devnagri Voicebot v3**
+   _Role: Full-stack Developer_
+   Enterprise-grade multilingual AI voice agent for customer service with real-time speech processing, multi-language support, and comprehensive call analytics.
+   **Tech Stack**: Node.js, Express, OpenAI, Azure Speech SDK, Google Cloud TTS/Storage, MongoDB, Redis, BullMQ, Twilio, WebSocket
 
 
 ### 💻 Tech Stack:
