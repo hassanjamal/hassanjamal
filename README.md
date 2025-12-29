@@ -1,6 +1,6 @@
 # Hi, I'm Hassan Jamal 👋
 
-I am an independent **Web Application Consultant** with a proven track record of transforming ideas into fully functional digital experiences. 
+I am an independent **Full-stack Developer & AI Specialist** with expertise in building scalable web applications and AI-powered solutions. From legacy systems to cutting-edge AI voice agents and trading intelligence platforms, I transform ideas into production-ready digital experiences. 
 
 ### 🛠 Tools and Frameworks I Use:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
