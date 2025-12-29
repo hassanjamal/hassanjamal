@@ -13,40 +13,35 @@ I am an independent **Web Application Consultant** with a proven track record of
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### 🌟 Notable Projects:
-1. **[GNG (www.gng.com)](http://gng.com)**  
-   _Role: Full-stack Developer_  
+1. **[GNG (www.gng.com)](http://gng.com)**
+   _Role: Full-stack Developer_
    Ported legacy PHP code to **Laravel**, **Livewire**, and **Tailwind**, and developed the mobile API interface for the project.
 
-2. **[Devnagri (www.devnagri.com)](http://www.devnagri.com)**  
-   _Role: API Developer & Nuxt.js Dashboard Developer_  
-   Responsible for **API development** and building the **Nuxt.js app dashboard** for seamless multilingual translation services.
+2. **[Devnagri (www.devnagri.com)](http://www.devnagri.com)**
+   _Role: API Developer & Full-stack Developer_
+   Working on **AI-powered multilingual solutions** including:
+   - **Translation Platform**: API development and **Nuxt.js app dashboard** for seamless multilingual translation services
+   - **Voicebot v4 (LiveKit)**: Production-ready multilingual voice assistant with multi-persona AI routing, supporting Hindi, Tamil, and English with sub-2-second response latency
+     **Tech Stack**: Python, LiveKit, OpenAI, ElevenLabs, Deepgram, MongoDB, Redis, Sentence Transformers, FAISS
+   - **Voicebot v3**: Enterprise-grade multilingual AI voice agent for customer service with real-time speech processing and comprehensive call analytics
+     **Tech Stack**: Node.js, Express, OpenAI, Azure Speech SDK, Google Cloud TTS/Storage, MongoDB, Redis, BullMQ, Twilio, WebSocket
 
-3. **[Prosperix (formerly CrowdStaffing)](https://www.prosperix.com)**  
-   _Role: Lead Developer, Project Manager_  
-   I spearheaded the development of the platform and led the team through the entire lifecycle, using **Ruby on Rails** and **Node.js**.
-
-4. **[QuickerNotes](https://quickernotes.com/)**  
-   _Role: Full-stack Developer_  
-   Developed a SOAP-based note-taking app used by health professionals, transitioning to **REST APIs** with **Laravel** and **Vue.js**.
-
-5. **[36 Creative](https://36creative.com/)**
-   _Role: Full-stack Developer_
-   Created a subscription-based app for delivering organic foods, using **Laravel** and **Vue.js** with integration of 3rd-party services like **Stripe** and **ShipStation**.
-
-6. **Optimus - Options Intelligence Platform**
+3. **Optimus - Options Intelligence Platform**
    _Role: Full-stack Developer (Personal Project)_
    Multi-strategy real-time options analysis platform for Indian F&O markets featuring gamma squeeze detection, multi-index support, and AI-powered trading signals with dual data sources (NSE + DhanHQ).
    **Tech Stack**: Python, Pandas, NumPy, DhanHQ/NSE APIs, Telegram Bot API, pytest
 
-7. **Devnagri Voicebot v4 (LiveKit)**
-   _Role: Full-stack Developer_
-   Production-ready multilingual voice assistant for customer service with multi-persona AI routing, supporting Hindi, Tamil, and English with sub-2-second response latency.
-   **Tech Stack**: Python, LiveKit, OpenAI, ElevenLabs, Deepgram, MongoDB, Redis, Sentence Transformers, FAISS
+4. **[Prosperix (formerly CrowdStaffing)](https://www.prosperix.com)**
+   _Role: Lead Developer, Project Manager_
+   I spearheaded the development of the platform and led the team through the entire lifecycle, using **Ruby on Rails** and **Node.js**.
 
-8. **Devnagri Voicebot v3**
+5. **[QuickerNotes](https://quickernotes.com/)**
    _Role: Full-stack Developer_
-   Enterprise-grade multilingual AI voice agent for customer service with real-time speech processing, multi-language support, and comprehensive call analytics.
-   **Tech Stack**: Node.js, Express, OpenAI, Azure Speech SDK, Google Cloud TTS/Storage, MongoDB, Redis, BullMQ, Twilio, WebSocket
+   Developed a SOAP-based note-taking app used by health professionals, transitioning to **REST APIs** with **Laravel** and **Vue.js**.
+
+6. **[36 Creative](https://36creative.com/)**
+   _Role: Full-stack Developer_
+   Created a subscription-based app for delivering organic foods, using **Laravel** and **Vue.js** with integration of 3rd-party services like **Stripe** and **ShipStation**.
 
 
 ### 💻 Tech Stack:
